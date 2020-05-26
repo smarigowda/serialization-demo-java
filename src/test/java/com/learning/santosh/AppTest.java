@@ -24,6 +24,6 @@ public class AppTest {
 
         List<Employee> data = response.getData();
 
-        System.out.println(String.format("Total employees: ",data.size()));
+        System.out.println(String.format("Total employees: %d",data.size()));
     }
 }
