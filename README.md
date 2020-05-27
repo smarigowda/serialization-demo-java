@@ -1,2 +1,2 @@
-# de serialization demo java
-A demo of de serialization in Java using Jackson library
+# Serialization and De Serialization in Java
+A github repository to demo Serialization and De Serialization
